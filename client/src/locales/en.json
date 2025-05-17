@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "Frontend & Telegram Bot Developer Portfolio",
+    "description": "Professional developer specializing in frontend development and Telegram chatbot creation. Services in English, Russian, and Turkish."
+  },
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Frontend Developer & Telegram Bot Specialist",
+    "subtitle": "Crafting exceptional digital experiences with clean code and innovative solutions. Specializing in modern frontend development and custom Telegram bot creation.",
+    "viewWork": "View My Work",
+    "contact": "Get In Touch",
+    "telegramTitle": "Telegram Expert",
+    "telegramSubtitle": "Custom Bot Solutions"
+  },
+  "about": {
+    "title": "About Me",
+    "description1": "I'm a passionate frontend developer with expertise in creating beautiful, functional interfaces and powerful Telegram bots that solve real problems.",
+    "description2": "With over 5 years of experience in web development and bot creation, I combine technical knowledge with creative problem-solving to deliver solutions that exceed expectations.",
+    "skill1": {
+      "title": "Modern JavaScript",
+      "description": "ES6+, React, Vue"
+    },
+    "skill2": {
+      "title": "UI/UX Design",
+      "description": "Tailwind, SCSS, Figma"
+    },
+    "skill3": {
+      "title": "Telegram Bots",
+      "description": "Custom APIs, Automation"
+    },
+    "skill4": {
+      "title": "Backend Integration",
+      "description": "REST, GraphQL, Node.js"
+    },
+    "cta": "Let's work together"
+  },
+  "services": {
+    "title": "My Services",
+    "subtitle": "Specialized solutions tailored to your unique requirements, combining technical expertise with creative problem-solving."
+  },
+  "portfolio": {
+    "title": "Featured Projects",
+    "subtitle": "A showcase of my best work across frontend development and Telegram bot projects.",
+    "cta": "Start Your Project"
+  },
+  "testimonials": {
+    "title": "Client Testimonials",
+    "subtitle": "Hear what my clients have to say about working with me on their projects."
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have a project in mind? Let's discuss how I can help bring your ideas to life.",
+    "form": {
+      "title": "Send Me a Message",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "submitting": "Sending..."
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": {
+        "label": "Email"
+      },
+      "telegram": {
+        "label": "Telegram"
+      },
+      "location": {
+        "label": "Location",
+        "value": "Available for remote work worldwide"
+      }
+    },
+    "social": {
+      "title": "Follow Me"
+    },
+    "successToast": {
+      "title": "Message Sent!",
+      "description": "Thank you for your message. I'll get back to you soon."
+    },
+    "errorToast": {
+      "title": "Error",
+      "description": "There was a problem sending your message. Please try again."
+    }
+  },
+  "footer": {
+    "copyright": "All rights reserved",
+    "backToTop": "Back to top"
+  }
+}

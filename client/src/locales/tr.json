@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "Frontend ve Telegram Bot Geliştirici Portföyü",
+    "description": "Frontend geliştirme ve Telegram sohbet botu oluşturma konusunda uzmanlaşmış profesyonel geliştirici. İngilizce, Rusça ve Türkçe hizmetler."
+  },
+  "nav": {
+    "about": "Hakkımda",
+    "services": "Hizmetler",
+    "portfolio": "Portfolyo",
+    "testimonials": "Referanslar",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "Frontend Geliştirici ve Telegram Bot Uzmanı",
+    "subtitle": "Temiz kod ve yenilikçi çözümlerle olağanüstü dijital deneyimler yaratıyorum. Modern frontend geliştirme ve özel Telegram bot oluşturmada uzmanlaşmış.",
+    "viewWork": "Çalışmalarım",
+    "contact": "İletişime Geç",
+    "telegramTitle": "Telegram Uzmanı",
+    "telegramSubtitle": "Özel Bot Çözümleri"
+  },
+  "about": {
+    "title": "Hakkımda",
+    "description1": "Güzel, işlevsel arayüzler ve gerçek sorunları çözen güçlü Telegram botları oluşturma konusunda uzmanlığa sahip tutkulu bir frontend geliştiricisiyim.",
+    "description2": "Web geliştirme ve bot oluşturma alanında 5 yıldan fazla deneyimle, beklentileri aşan çözümler sunmak için teknik bilgiyi yaratıcı problem çözme ile birleştiriyorum.",
+    "skill1": {
+      "title": "Modern JavaScript",
+      "description": "ES6+, React, Vue"
+    },
+    "skill2": {
+      "title": "UI/UX Tasarım",
+      "description": "Tailwind, SCSS, Figma"
+    },
+    "skill3": {
+      "title": "Telegram Botları",
+      "description": "Özel API'ler, Otomasyon"
+    },
+    "skill4": {
+      "title": "Backend Entegrasyonu",
+      "description": "REST, GraphQL, Node.js"
+    },
+    "cta": "Birlikte çalışalım"
+  },
+  "services": {
+    "title": "Hizmetlerim",
+    "subtitle": "Teknik uzmanlık ve yaratıcı problem çözmeyi birleştirerek, benzersiz gereksinimlerinize uyarlanmış özel çözümler."
+  },
+  "portfolio": {
+    "title": "Öne Çıkan Projeler",
+    "subtitle": "Frontend geliştirme ve Telegram bot projeleri alanındaki en iyi çalışmalarımın bir vitrini.",
+    "cta": "Projenizi Başlatın"
+  },
+  "testimonials": {
+    "title": "Müşteri Yorumları",
+    "subtitle": "Müşterilerimin projelerinde benimle çalışma konusunda ne söylediklerini dinleyin."
+  },
+  "contact": {
+    "title": "İletişime Geçin",
+    "subtitle": "Aklınızda bir proje mi var? Fikirlerinizi hayata geçirmenize nasıl yardımcı olabileceğimi tartışalım.",
+    "form": {
+      "title": "Bana Mesaj Gönderin",
+      "name": "İsim",
+      "email": "E-posta",
+      "subject": "Konu",
+      "message": "Mesaj",
+      "submit": "Mesaj Gönder",
+      "submitting": "Gönderiliyor..."
+    },
+    "info": {
+      "title": "İletişim Bilgileri",
+      "email": {
+        "label": "E-posta"
+      },
+      "telegram": {
+        "label": "Telegram"
+      },
+      "location": {
+        "label": "Konum",
+        "value": "Dünya genelinde uzaktan çalışmaya uygun"
+      }
+    },
+    "social": {
+      "title": "Takip Et"
+    },
+    "successToast": {
+      "title": "Mesaj Gönderildi!",
+      "description": "Mesajınız için teşekkürler. En kısa sürede size geri döneceğim."
+    },
+    "errorToast": {
+      "title": "Hata",
+      "description": "Mesajınızı gönderirken bir sorun oluştu. Lütfen tekrar deneyin."
+    }
+  },
+  "footer": {
+    "copyright": "Tüm hakları saklıdır",
+    "backToTop": "Başa dön"
+  }
+}
