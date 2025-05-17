@@ -56,7 +56,7 @@ export const services: Service[] = [
     items: {
       en: ["Custom bot solutions", "Integration with external APIs", "Automated notifications"],
       ru: ["Индивидуальные решения для ботов", "Интеграция с внешними API", "Автоматические уведомления"],
-      tr: ["Özel bot çözümleri", "Harici API'lerle entegrasyon", "Otomatik bildirimler"]
+      tr: ["Özel bot çözümleri", "Harici API'lerle entegrasyon", "Otomatik bildirimler", "CRM bağlantıları"]
     },
     technologies: ["Node.js", "Python", "Telegram API", "Webhooks"]
   },
